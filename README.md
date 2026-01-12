@@ -23,6 +23,8 @@ El archivo `video.txt` se encuentra generalmente en la siguiente ruta:
 
 Steam\userdata<SteamID>\730\local\cfg\
 
+<img width="678" height="301" alt="{2B4D5218-EC52-41A5-AAE5-B1D6F848B8E4}" src="https://github.com/user-attachments/assets/657f2423-cb54-46aa-8a22-e4b9d1ef7953" />
+
 
 Este archivo se genera automáticamente al modificar opciones gráficas desde el juego.
 
